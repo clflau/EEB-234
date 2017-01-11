@@ -14,3 +14,8 @@ sudo gedit <filename>
 
 To view status of git repository:
 git status
+
+To commit with a message:
+git commit -m "write message here"
+
+REMEMBER TO PUSH OR ELSE IT WON'T SHOW UP ON GITHUB!!
