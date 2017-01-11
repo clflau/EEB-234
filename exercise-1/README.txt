@@ -19,3 +19,18 @@ To commit with a message:
 git commit -m "write message here"
 
 REMEMBER TO PUSH OR ELSE IT WON'T SHOW UP ON GITHUB!!
+
+####
+Branching
+
+commands involved:
+To check which branch I'm in:
+git branch
+
+To make new branch and go into the branch:
+git checkout -b <branch name>
+
+To see log of branches:
+git log --decorate
+
+
