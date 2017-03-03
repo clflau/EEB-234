@@ -52,6 +52,7 @@ ggplot(cocoli_dat) + geom_histogram(aes(dbh1)) +
 ```
 
 # ggplot Tutorial 
+###### From http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html#org93999d8
 
 ```{r}
 housing <- read.csv("Rgraphics/dataSets/landdata-states.csv")
